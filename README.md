@@ -1,6 +1,6 @@
 # Spelling Checker
 
-A simple Spelling Checker application built in Python using the tkinter library and the TextBlob library.
+Spelling Checker application built in Python using the tkinter library and the TextBlob library.
 
 ## Overview
 
